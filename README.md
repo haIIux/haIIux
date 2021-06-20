@@ -1,7 +1,5 @@
-![hallux](https://user-images.githubusercontent.com/47156971/122678109-5c21c400-d1b3-11eb-8500-2cea0b92fe77.png)
 
-
-## Hello there!
+## Hello there! 👋
 
 I am a self-taught iOS developer in the process of learning the ropes of SwiftUI. I enjoy finding solutions to problems which others find overly challenging. 
 
