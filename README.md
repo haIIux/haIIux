@@ -10,7 +10,7 @@ I am a self-taught iOS developer in the process of learning the ropes of SwiftUI
 - 🌩️ Fun fact : The first person convicted of speeding was going eight mph.
 
 I have recently began my own freelance studio which aims to help clients develop an iOS application that solves their number one issue stopping them from succeeding. 
-![ten-eight-studios](https://github.com/haIIux/teneightblue.png?raw=true)
+![ten-eight-studios](https://github.com/haIIux/main/teneightblue.png?raw=true)
 
 
 #### _Looking to get in touch?_
