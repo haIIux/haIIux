@@ -15,5 +15,6 @@ I am a self-taught iOS developer in the process of learning the ropes of SwiftUI
 
 - :email: [Send me an email!](halluxdev@gmail.com)
 - 🐦 [Twitter](https://twitter.com/halluxdev)
+- 📖 [Medium](https://medium.com/@halluxdev)
 
 
