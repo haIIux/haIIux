@@ -1,5 +1,5 @@
 
-## Hello there! 👋
+#  👨🏼‍💻 Robert Maltese
 
 I am a self-taught iOS developer in the process of learning the ropes of SwiftUI. I enjoy finding solutions to problems which others find overly challenging. 
 
@@ -10,8 +10,13 @@ I am a self-taught iOS developer in the process of learning the ropes of SwiftUI
 - 👮 I'm always open to discussing a career change!
 - 🌩️ Fun fact : The first person convicted of speeding was going eight mph.
 
+### 🧰 Languages and Tools
+<img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
+<img align="left" alt="Digital Ocean" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"/>
 
-#### _Looking to get in touch?_
+          
+
+### 🤳🏽 Looking to get in touch?
 
 - :email: [Send me an email!](halluxdev@gmail.com)
 - 🐦 [Twitter](https://twitter.com/halluxdev)
