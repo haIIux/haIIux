@@ -12,10 +12,10 @@ I am a self-taught iOS developer in the process of learning the ropes of SwiftUI
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
-<img align="left" alt="Digital Ocean" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"/>
+<img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"/>
+<img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//git/git-original.svg"/>
 
           
-
 ### 🤳🏽 Looking to get in touch?
 - :email: [Send me an email!](halluxdev@gmail.com)
 - 🐦 [Twitter](https://twitter.com/halluxdev)
