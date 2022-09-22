@@ -19,7 +19,7 @@ I am a self-taught iOS developer in the process of learning the ropes of SwiftUI
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>         
 <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>                           
 <br/>
-
+<br/>
 ### 📊 Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=haIIux&show_icons=true&theme=gruvbox)
           
