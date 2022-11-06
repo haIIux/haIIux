@@ -1,7 +1,7 @@
 
 #  👨🏼‍💻 Robert Maltese
 
-I am a self-taught iOS developer in the process of learning the ropes of SwiftUI. I enjoy finding solutions to problems which others find overly challenging. 
+I really enjoy building projects with SwiftUI and have been enjoying learning server-sided Swift. 
 
 - 🔎 I'm currently working on a [independent](https://heatbuddy.app) project which helps solve a crucial issue for homeowners and renters alike!
 - 🔨 I have two applications on the AppStore, [HeatBuddy](https://heatbuddy.app) and [HealthCalc](https://apps.apple.com/us/app/healthcalc-fit-calculators/id1567425913).
